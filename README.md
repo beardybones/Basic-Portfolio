@@ -1,2 +1,3 @@
-# Basic-Portfolio
-UCSD Basic Portfolio
+# My-Portfolio
+UCSD Portfolio
+Curiosity drives creativity
