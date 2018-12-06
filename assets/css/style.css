@@ -13,7 +13,7 @@
 	font-size: inherit;
 }
 body {
-  background-image: url("../images/pluto.jpg");
+  background-image: url(https://i.imgur.com/loJOQ93.jpg);
   background-size: 100% 110%;
   background-repeat: no-repeat;
 }
@@ -22,6 +22,7 @@ body {
   font-weight: 700;
   margin-left: 150px;
   width: 750px;
+  text-align: center;
   
 }
 
