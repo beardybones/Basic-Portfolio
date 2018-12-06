@@ -12,3 +12,22 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+body {
+  background-image: url("../images/pluto.jpg");
+  background-size: 100% 110%;
+  background-repeat: no-repeat;
+}
+
+#brand {
+  font-weight: 700;
+  margin-left: 150px;
+  width: 750px;
+  
+}
+
+#font {
+  font-weight: 700;
+  font-size: 13pt;
+  
+  
+}
